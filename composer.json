@@ -1,0 +1,15 @@
+{
+    "name": "alex/blog",
+    "license": "proprietary",
+    "type": "project",
+    "description": "The blog distribution",
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+
+}
