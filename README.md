@@ -6,4 +6,4 @@
 app/Config/Configs.php
 
 3. Database dump file:
-_sql_dump
+_sql_dump/blog.sql
